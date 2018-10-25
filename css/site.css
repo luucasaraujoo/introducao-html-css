@@ -128,8 +128,18 @@ main {
     top: 310px;
 }
 
+/*.minha-foto {            */                          
+/*    position: absolute;  */                         
+/*    top: 0;              */             
+/*    right: 0;            */             
+/*}                        */ 
+
+
+
 .minha-foto {
     position: absolute;
     top: 0;
+    width: 317px;
+    height: 317px;
     right: 0;
 }
